@@ -21,4 +21,4 @@ imgs.forEach(img => {
 
 // Modifique o href do link externo no menu
 const linkExterno = document.querySelector('a[href^="http"]');
-linkExterno.setAttribute('href', '#contato')
+linkExterno.setAttribute('href', '#contato');

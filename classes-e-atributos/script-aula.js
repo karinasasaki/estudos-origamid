@@ -14,7 +14,7 @@ if(menu.classList.contains('amarelo')) {
 }
 
 //console.log(menu.className); //retorna uma string 
-menu.className += ' vermelho' //é possível modificar a propriedade (Writable)
+menu.className += ' vermelho'; //é possível modificar a propriedade (Writable)
 
 //attributes (Read Only, não é possível modificar a propriedade)
 
